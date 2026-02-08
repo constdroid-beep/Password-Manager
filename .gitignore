@@ -1,0 +1,12 @@
+# Personal data files
+passwords.enc
+daten_encrypted.csv
+daten_encrypted.csv.backup
+salt.bin
+master_salt.bin
+password_manager.log
+
+# Python
+__pycache__/
+*.pyc
+venv/
